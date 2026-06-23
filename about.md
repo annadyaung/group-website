@@ -1,4 +1,8 @@
 # About
 
 ## Project 
-This project is all about learning how to create websites with GitHub Pages.
+
+{{ site.description }}
+
+## Contact us
+Email: [team@carpentries.org](mailto: {{ site.email }})
