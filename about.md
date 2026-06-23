@@ -1,2 +1,4 @@
 # About
-This is an example of a linked page within my new website.
+
+## Project 
+This project is all about learning how to create websites with GitHub Pages.
