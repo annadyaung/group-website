@@ -8,5 +8,3 @@ layout: default
 {{ site.description }}
 
 More details about the project are available on the [About page](about.md)
-
-{% include footer.html %}
