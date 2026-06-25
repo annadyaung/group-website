@@ -1,4 +1,6 @@
-{% include navigation.html %}
+---
+layout: default
+---
 
 # Building Websites in GitHub
 
