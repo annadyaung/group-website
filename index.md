@@ -1,6 +1,6 @@
-# Building Websites in GitHub
-
 {% include navigation.html %}
+
+# Building Websites in GitHub
 
 ## Description
 {{ site.description }}
