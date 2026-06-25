@@ -8,5 +8,3 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 ## Project 
 
 {{ site.description }}
-
-{% include footer.html %}
