@@ -1,3 +1,11 @@
 description: "This project is developed from training materials for researchers wanting to learn to build websites in GitHub wiht GitHub Pages."
 email: "team@carpentries.org"
 github: "https://github.com/annadyaung/group-website.git"
+
+team_members:
+  - name: "Sarah Becker"
+    role: "Project Lead"
+    start_date: "2016-02-01"
+  - name: "Jane Smith"
+    role: "Maintainer"
+    start_date: "2018-06-05"
